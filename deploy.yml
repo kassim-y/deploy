@@ -1,0 +1,7 @@
+your-repo-name/
+├── main.tf
+├── variables.tf           
+├── outputs.tf            
+└── .github/
+    └── workflows/
+        └── deploy.yml     
